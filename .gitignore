@@ -1,0 +1,17 @@
+# Archivos de entorno (contienen claves)
+.env
+.env.*
+!.env.example
+
+# Dependencias
+node_modules/
+vendor/
+
+# Builds y logs
+dist/
+*.log
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
